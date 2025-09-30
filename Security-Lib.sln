@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Agrine.Encryption", "Agrine
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Agrine.Hashing", "Agrine.Hashing\Agrine.Hashing.vcxproj", "{9463A16C-33AA-1C15-4ADD-3280CEC86785}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Agrine.Authentication", "Agrine.Authentication\Agrine.Authentication.vcxproj", "{E53B90A5-8B19-B9FB-37F0-D3C0121D0180}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{9463A16C-33AA-1C15-4ADD-3280CEC86785}.Release|x64.Build.0 = Release|x64
 		{9463A16C-33AA-1C15-4ADD-3280CEC86785}.Release|x86.ActiveCfg = Release|Win32
 		{9463A16C-33AA-1C15-4ADD-3280CEC86785}.Release|x86.Build.0 = Release|Win32
+		{E53B90A5-8B19-B9FB-37F0-D3C0121D0180}.Debug|x64.ActiveCfg = Debug|x64
+		{E53B90A5-8B19-B9FB-37F0-D3C0121D0180}.Debug|x64.Build.0 = Debug|x64
+		{E53B90A5-8B19-B9FB-37F0-D3C0121D0180}.Debug|x86.ActiveCfg = Debug|Win32
+		{E53B90A5-8B19-B9FB-37F0-D3C0121D0180}.Debug|x86.Build.0 = Debug|Win32
+		{E53B90A5-8B19-B9FB-37F0-D3C0121D0180}.Release|x64.ActiveCfg = Release|x64
+		{E53B90A5-8B19-B9FB-37F0-D3C0121D0180}.Release|x64.Build.0 = Release|x64
+		{E53B90A5-8B19-B9FB-37F0-D3C0121D0180}.Release|x86.ActiveCfg = Release|Win32
+		{E53B90A5-8B19-B9FB-37F0-D3C0121D0180}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
